@@ -1,0 +1,9 @@
+{
+  "azureFunctions.deploySubpath": "target/azure-functions/functions-java-servicebus-sessions-1574375893849/",
+  "azureFunctions.projectLanguage": "Java",
+  "azureFunctions.projectRuntime": "~2",
+  "debug.internalConsoleOptions": "neverOpen",
+  "azureFunctions.preDeployTask": "package",
+  "azureFunctions.templateFilter": "All",
+  "java.configuration.updateBuildConfiguration": "interactive"
+}
